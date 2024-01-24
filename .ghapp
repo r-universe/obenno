@@ -1,0 +1,10 @@
+{
+  "id": 46484000,
+  "created_at": "2024-01-24T06:34:27.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["scSpotlight"]
+}
