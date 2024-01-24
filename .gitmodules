@@ -1,4 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/obenno/obenno.r-universe.dev
 	branch = HEAD
+[submodule "scSpotlight"]
+	path = scSpotlight
+	url = https://github.com/obenno/scSpotlight
