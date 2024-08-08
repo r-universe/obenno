@@ -5,4 +5,4 @@
 [submodule "scSpotlight"]
 	path = scSpotlight
 	url = https://github.com/obenno/scSpotlight
-	branch = *release
+	branch = v0.0.4
